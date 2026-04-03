@@ -1,0 +1,5 @@
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\publish\TitanNetwork
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\publish\TitanNetwork.dll
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\publish\TitanNetwork.deps.json
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\publish\TitanNetwork.runtimeconfig.json
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\publish\TitanNetwork.pdb

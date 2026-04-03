@@ -1,0 +1,14 @@
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\TitanNetwork
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\TitanNetwork.deps.json
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\TitanNetwork.runtimeconfig.json
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\TitanNetwork.dll
+E:\VSpro\TitanNetwork\bin\Release\net8.0\linux-x64\TitanNetwork.pdb
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.AssemblyInfoInputs.cache
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.AssemblyInfo.cs
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.csproj.CoreCompileInputs.cache
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.dll
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\refint\TitanNetwork.dll
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.pdb
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\TitanNetwork.genruntimeconfig.cache
+E:\VSpro\TitanNetwork\obj\Release\net8.0\linux-x64\ref\TitanNetwork.dll
